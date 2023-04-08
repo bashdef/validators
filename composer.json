@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Src\\Validator\\": "Src/"
+            "Src\\": "core/Src/"
         }, "files": [
             "Validators/EnglishValidator.php",
             "Validators/RequireValidator.php",
