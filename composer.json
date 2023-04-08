@@ -18,10 +18,10 @@
         "psr-4": {
             "Src\\Validator\\": "core/Src/"
         }, "files": [
-            "validators/EnglishValidator.php",
-            "validators/RequireValidator.php",
-            "validators/RoleValidator.php",
-            "validators/UniqueValidator.php"
+            "Validators/EnglishValidator.php",
+            "Validators/RequireValidator.php",
+            "Validators/RoleValidator.php",
+            "Validators/UniqueValidator.php"
         ]
     }     
 }
